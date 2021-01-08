@@ -10,6 +10,16 @@
 /* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
+:root {
+  --primiry-color: #003476;
+  --secundary-color: #b4d2f7;
+  --header-size: 4rem;
+  --font: 1.8rem;
+}
+
+/* header{
+  background-color: var(--primiry-color);
+} */
 
 html {
   color: #222;
@@ -97,6 +107,131 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+
+/* * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+} */
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: #f2f2f2;
+  font-family: "Open Sans", sans-serif;
+}
+
+h2{
+    font-family: 'Oswald', sans-serif;
+}
+/* Header */
+div.hero {
+  background-image: url(../img/encabezado.jpg);
+  height: 100vh;
+  background-position: top center;
+  background-size: cover;
+}
+
+div.contenido-header {
+  padding-top: 40px;
+}
+@media only screen and (min-width:768px){
+    div.contenido-header {
+        padding-top: 10px;
+    }
+}
+nav.redes-sociales {
+  text-align: center;
+}
+
+nav.redes-sociales a {
+  color: white;
+  font-size: 2em;
+  margin-right: 20px;
+}
+
+nav.redes-sociales a:last-child {
+  margin-right: 0;
+}
+
+div.informacion-evento {
+  text-align: center;
+  color: white;
+}
+
+@media only screen and (min-width:768px){
+    div.informacion-evento{
+        width: 70%;
+        margin: 0 auto;
+        margin-top:50px;
+    }
+
+}
+div.informacion-evento p {
+  margin: 0;
+  display: inline;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+div.informacion-evento p i{
+    color: #FE4918;
+    font-size: 2.4rem;
+}
+p.fecha{
+    float: left;
+}
+p.ciudad{
+    float:right;
+    text-align: right;
+}
+p.slogan{
+    text-transform: none !important;
+}
+p.slogan span{
+    font-weight: bold;
+}
+h1.nombre-sitio {
+    font-size: 5.9vw;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'PT Sans', sans-serif;
+}
+@media only screen and (min-width:768px){
+    h1.nombre-sitio {
+        font-size: 9.5vw;
+        margin:0;
+        line-height: 1;
+    } 
+}
+
+
+
+
+/* .main {
+  width: 100vw;
+  height: 100vh;
+} */
+
+/* .section {
+  width: 80%;
+  min-width: 320px;
+  min-height: 500px;
+  /* height: 500px; */
+  /* max-width: 500px; 
+  margin: 0 auto;
+}
+
+html {
+  font-size: 62.5%;
+} */
 
 /* ==========================================================================
    Helper classes
@@ -262,4 +397,3 @@ textarea {
     page-break-after: avoid;
   }
 }
-
