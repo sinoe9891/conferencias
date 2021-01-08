@@ -129,9 +129,54 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
+/* Globales */
+.contenedor{
+    width: 98%;
+    margin: 0 auto;
+}
+@media only screen and (min-width:480px){
+    .contenedor{
+        width: 95%;
+    }
+}
+@media only screen and (min-width:768px){
+    .contenedor{
+        width: 90%;
+    }
+}
+@media only screen and (min-width:992px){
+    .contenedor{
+        width: 90%;
+        max-width: 1100px;
+    }
+}
+.seccion{
+    padding: 30px 0;
+}
+.seccion p{
+    font-size: 1.2em;
+    text-align: center;
+}
 h2{
     font-family: 'Oswald', sans-serif;
+    font-size: 2.4em;
+    text-transform: uppercase;
+    text-align: center;
 }
+
+h2::after{
+    content: '';
+    margin:0 auto;
+    background-image: url(../img/separador.png);
+    height: 30px;
+    width: 100px;
+    display: block;
+}
+
+
+
+
+
 /* Header */
 div.hero {
   background-image: url(../img/encabezado.jpg);
@@ -212,7 +257,94 @@ h1.nombre-sitio {
     } 
 }
 
+div.barra{
+    background-color:#353535;
+    padding: 20px 0;
+}
+div.logo{
+    width: 80%;
+    float: left;
+}
+div.logo img{
+    width: 100%;
+}
 
+@media only screen and (min-width:768px){
+    div.logo{
+        width: 33%;
+    }
+}
+
+/* Navagación Principal */
+nav.navegacion-principal{
+    display: none;
+}
+nav.navegacion-principal a{
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    font-size: 1em;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: all .5s ease;
+    width: 100%;
+    display: block;
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+nav.navegacion-principal a:hover{
+    background-color: #FE4918;
+}
+nav.navegacion-principal a:last-child:hover{
+    color: #ffffff;
+}
+
+nav.navegacion-principal a:last-child{
+    border:2px solid #FE4918;
+    color: #FE4918;
+}
+
+@media only screen and (min-width:768px){
+    nav.navegacion-principal{
+        width: 67%;
+        float: right;
+        text-align: right;
+        display: block;
+    }
+    nav.navegacion-principal a{
+        margin-right: 10px;
+        padding: 10px 10px;
+        display: inline-block;
+        width: 100%;
+        display: inline;
+        text-align: center;
+        margin-bottom: 20px;
+        margin:0 10px 0 0;
+    }
+}
+/* Menú Movil */
+div.menu-movil:hover{
+    cursor: pointer;
+}
+div.menu-movil{
+    width: 60px;
+    display: block;
+    float:right;
+    text-align: right;
+    margin-top: 12px;
+}
+@media only screen and (min-width:768px){
+    div.menu-movil{
+        display: none;
+    }
+}
+
+div.menu-movil span{
+    height: 8px;
+    margin-bottom: 6px;
+    background-color: white;
+    display: block;
+}
 
 
 /* .main {
@@ -232,6 +364,19 @@ h1.nombre-sitio {
 html {
   font-size: 62.5%;
 } */
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* ==========================================================================
    Helper classes
