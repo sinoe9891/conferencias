@@ -628,6 +628,75 @@ div.tabla-precio p.numero{
     margin-top: 20px 0;
 }
 
+/* MAPA */
+div.mapa{
+    height: 420px;
+    background-color: green;
+}
+/* Testimoniles */
+div.testimoniales{
+    padding-bottom: 20px;
+}
+div.testimonial{
+    padding: 5px;
+}
+@media only screen and (min-width:768px){
+    div.testimonial{
+        float: left;
+        width: 33.3%;
+    }
+}
+
+blockquote{
+    background-color: white;
+    border:1px solid #e1e1e1;
+    position: relative;
+    margin: 0 0 10px 0;
+    padding-bottom: 20px;
+}
+blockquote p{
+    text-align: left !important;
+    font-size: 1em !important;
+    font-family: 'PT Sans', sans-serif;
+    padding: 0 20px 0 65px;
+}
+blockquote p::before{
+    content: '\201c';
+    position: absolute;
+    left: 13px;
+    top: 5px;
+    font-size: 8rem;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    color: #FE4918;
+}
+footer.info-testimonial{
+    padding: 0;
+}
+footer.info-testimonial img{
+    width: 20%;
+    float: left;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+footer.info-testimonial cite{
+    text-align: left;
+    color: #FE4918;
+    text-transform: uppercase;
+    font-size: 12px;
+    padding-top: 20px;
+    width: 66.6%;
+    float: right;
+    font-weight: bold;
+    font-style: normal;
+}
+footer.info-testimonial cite span{
+    color: #000000;
+    display: block;
+    text-transform: none;
+    margin-top: 5px;
+}
 /* ==========================================================================
    Helper classes
    ========================================================================== */
