@@ -12,8 +12,8 @@
 1. **Sección de Registro con HTML y CSS (7/7 | 39min)** :white_check_mark:
 1. **Cotización en línea con JavaScript**
 1. **Agregando un Mapa con LeafletJS**
-1. **jQuery en nuestro sitio web** :white_check_mark:
-1. **Plugins de jQuery** :white_check_mark:
+1. **jQuery en nuestro sitio web** :x:
+1. **Plugins de jQuery** :x:
 1. **Haciendo nuestro sitio web dinámico con PHP y MYSQL**
 1. **Conectando nuestra página web a MYSQL (Creando calendario de eventos)**
  1. **Creando la sección de invitados desde la Base de Datos**
