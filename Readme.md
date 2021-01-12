@@ -10,8 +10,8 @@
 1. **Creando los Testimoniales (3/3 | 17min)** :white_check_mark:
 1. **Sección de Newsletter y Cuenta regresiva (4/4 | 12min)** :white_check_mark:
 1. **Sección de Registro con HTML y CSS (7/7 | 39min)** :white_check_mark:
-1. **Cotización en línea con JavaScript**
-1. **Agregando un Mapa con LeafletJS**
+1. **Cotización en línea con JavaScript (11/11 | 56min)** :ballot_box_with_check:
+1. **Agregando un Mapa con LeafletJS (0/3 | 9min)**
 1. **jQuery en nuestro sitio web** :x:
 1. **Plugins de jQuery** :x:
 1. **Haciendo nuestro sitio web dinámico con PHP y MYSQL**
