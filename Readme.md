@@ -8,7 +8,7 @@
 1. **Creando un contador para la cantidad de eventos, conferencias y más (3/3 | 12min)** :white_check_mark:
 1. **Lista de Precios (4/4 | 20min)** :white_check_mark:
 1. **Creando los Testimoniales (3/3 | 17min)** :white_check_mark:
-1. **Sección de Newsletter y Cuenta regresiva (1/4 | 12min)**
+1. **Sección de Newsletter y Cuenta regresiva (1/4 | 12min)** :white_check_mark:
 1. **Sección de Registro con HTML y CSS**
 1. **Cotización en línea con JavaScript**
 1. **Agregando un Mapa con LeafletJS**
