@@ -315,6 +315,7 @@ div.logo img {
 /* Navagación Principal */
 nav.navegacion-principal {
   display: none;
+  width: 100%;
 }
 nav.navegacion-principal a {
   font-family: "Oswald", sans-serif;
@@ -340,24 +341,22 @@ nav.navegacion-principal a:last-child {
   color: #fe4918;
 }
 
-@media only screen and (min-width: 768px) {
-  nav.navegacion-principal {
-    width: 67%;
-    float: right;
-    text-align: right;
-    display: block;
+@media only screen and (min-width:768px) {
+    nav.navegacion-principal {
+      width: 67%;
+      float: right;
+      text-align: right;
+      display: block;
+    }
+    nav.navegacion-principal a {
+      padding: 10px 10px;
+      display: inline-block;
+      width:auto;
+      display: inline-block;
+      text-align: center;
+      margin:0 10px 0 0;
+    }
   }
-  nav.navegacion-principal a {
-    margin-right: 10px;
-    padding: 10px 10px;
-    display: inline-block;
-    width: 100%;
-    display: inline;
-    text-align: center;
-    margin-bottom: 20px;
-    margin: 0 10px 0 0;
-  }
-}
 /* Menú Movil */
 div.menu-movil:hover {
   cursor: pointer;
@@ -676,6 +675,7 @@ blockquote p::before {
 }
 footer.info-testimonial {
   padding: 0;
+  background-color: transparent;
 }
 footer.info-testimonial img {
   width: 20%;
