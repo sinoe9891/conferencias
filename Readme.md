@@ -11,7 +11,7 @@
 1. **Sección de Newsletter y Cuenta regresiva (4/4 | 12min)** :white_check_mark:
 1. **Sección de Registro con HTML y CSS (7/7 | 39min)** :white_check_mark:
 1. **Cotización en línea con JavaScript (11/11 | 56min)** :ballot_box_with_check:
-1. **Agregando un Mapa con LeafletJS (0/3 | 9min)**
+1. **Agregando un Mapa con LeafletJS (0/3 | 9min)** :x:
 1. **Introducción a jQuery** :x:
 1. **Primeros Pasos con jQuery** :x:
 1. **jQuery en nuestro sitio web** :x:
