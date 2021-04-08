@@ -35,7 +35,18 @@
 1. **Haciendo nuestro sitio web dinámico con PHP y MYSQL (0/9 | 38min)** :x:
 1. **Conectando nuestra página web a MYSQL (Creando calendario de eventos)** :x:
 1. **Creando la sección de invitados desde la Base de Datos** :x:
-1.  **Trabajando con el Calendario de la página Principal** :x:
+1. **Trabajando con el Calendario de la página Principal** :x:
 1. **Permitiendo a los usuarios registrar sus conferencias** :x:
-1.  **Agregando MAILCHIMP a nuestro sitio Web** :x:
+1. **Agregando MAILCHIMP a nuestro sitio Web** :x:
+1. **Agregando PayPal a Nuestro Proyecto Final** :x:
+1. **Creando una zona de Administración con Admin LTE** :x:
+1. **AdminLTE Creando Administradores** :x:
+1. **AdminLTE Agregando la sección para añadir Eventos** :x:
+1. **AdminLTE Sección para administrar las Categorías** :x:
+1. **AdminLTE Agregando los Invitados / Ponentes** :x:
+1. **AdminLTE Creando la sección de usuarios registrados al evento** :x:
+1. **AdminLTE Creando un Dashboard con gráficas y widgets** :x:
+1. **AdminLTE Agregando los Invitados / Ponentes** :x:
+1. **Últimos ajustes al proyecto** :x:
+1. **Optimizar el sitio Web antes de Lanzarlo** :x:
 
