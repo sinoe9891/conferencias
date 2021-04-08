@@ -6,7 +6,15 @@
 
 	document.addEventListener('DOMContentLoaded', function () {
 		// console.log("listo");
+		var map = L.map('mapa').setView([14.077642, -87.214377], 18);
 
+		L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+			attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+		}).addTo(map);
+
+		L.marker([14.077642, -87.214377]).addTo(map)
+			.bindPopup('Mi Casa')
+			.openPopup();
 		//CAMPOS DATOS USUARIO
 		var nombre = document.getElementById('nombre');
 		var apellido = document.getElementById('apellido');
