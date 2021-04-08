@@ -12,6 +12,7 @@
 1. **Introducción PHP (5/5 | 18min)** :white_check_mark:
 1. **PHP - Sintaxis, Funciones y Mucho más (8/20 | 2h 12min)** :ballot_box_with_check:
 1. **Programación Orientada a Objetos (POO) en PHP (0/19 | 1h 35min)** :ballot_box_with_check:
+1. **Introducción a Bases de Datos** :x:
 1. **Introducción a MySQL - Creando nuestra primer base de datos (0/15 | 52min)** :x:
 1. **PHP y BASES DE DATOS - Introducción práctica (0/3 | 31min)** :x:
 1. **Recibiendo pagos con PayPal** :x:
