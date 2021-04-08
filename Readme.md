@@ -18,9 +18,6 @@
 1. **AJAX- Introducción, que es y ejercicios** :x:
 
 
-
-
-
 # Eventos KIDAN
 
 1. **Sitio Web para Conferencias (13/13 | 1h 15min)** :white_check_mark:
