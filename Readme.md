@@ -19,9 +19,9 @@
 	-  Elaborando la sección de Resumen :white_check_mark:
 	-  CSS el resumen de compra :white_check_mark:
 	-  Ocultar y Mostrar las conferencias basadas en el día :white_check_mark:
-	-  Validando con JavaScript :ballot_box_with_check:
-	-  Creando una función para Validar :ballot_box_with_check:
-	-  Validando nuestro formulario para recibir emails :ballot_box_with_check:
+	-  Validando con JavaScript :white_check_mark:
+	-  Creando una función para Validar :white_check_mark:
+	-  Validando nuestro formulario para recibir emails :white_check_mark:
 1. **Agregando un Mapa con LeafletJS (0/3 | 9min)** :ballot_box_with_check:
 1. **Introducción a jQuery** :x:
 1. **Primeros Pasos con jQuery** :x:
