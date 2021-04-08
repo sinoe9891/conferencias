@@ -967,7 +967,7 @@ div.paquetes .tabla-precio input {
 
 .contenido-dia {
     padding: 20px;
-    /* display: none; */
+    display: none;
 }
 
 @media only screen and (min-width:768px) {
@@ -1065,6 +1065,18 @@ div.resumen input {
     color: red;
     margin-top: 10px;
     font-size: 1em;
+}
+
+input[disabled].button{
+	opacity: .5;
+}
+
+#error{
+	clear: both;
+	display: none;
+	padding: 20px;
+	text-align: center;
+	color: red;
 }
 
 
