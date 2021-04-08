@@ -25,9 +25,9 @@
 1. **Agregando un Mapa con LeafletJS (0/3 | 9min)** :white_check_mark:
 1. **Introducción a jQuery** :white_check_mark:
 1. **Primeros Pasos con jQuery** :ballot_box_with_check:
-1. **jQuery en nuestro sitio web** :x:
 1. **jQuery en Práctica** :x:
 1. **jQuery en nuestro sitio web** :x:
+1. **Plugins de jQuery** :x:
 1. **Introducción a MySQL - Creando nuestra primer base de datos** :x:
 1. **Haciendo nuestro sitio web dinámico con PHP y MYSQL** :x:
 1. **Conectando nuestra página web a MYSQL (Creando calendario de eventos)** :x:
