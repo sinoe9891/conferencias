@@ -22,9 +22,9 @@
 	-  Validando con JavaScript :white_check_mark:
 	-  Creando una función para Validar :white_check_mark:
 	-  Validando nuestro formulario para recibir emails :white_check_mark:
-1. **Agregando un Mapa con LeafletJS (0/3 | 9min)** :ballot_box_with_check:
-1. **Introducción a jQuery** :x:
-1. **Primeros Pasos con jQuery** :x:
+1. **Agregando un Mapa con LeafletJS (0/3 | 9min)** :white_check_mark:
+1. **Introducción a jQuery** :white_check_mark:
+1. **Primeros Pasos con jQuery** :ballot_box_with_check:
 1. **jQuery en nuestro sitio web** :x:
 1. **jQuery en Práctica** :x:
 1. **jQuery en nuestro sitio web** :x:
