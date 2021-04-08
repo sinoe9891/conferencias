@@ -22,14 +22,14 @@
 	-  Validando con JavaScript :white_check_mark:
 	-  Creando una función para Validar :white_check_mark:
 	-  Validando nuestro formulario para recibir emails :white_check_mark:
-1. **Agregando un Mapa con LeafletJS (0/3 | 9min)** :white_check_mark:
-1. **Introducción a jQuery** :white_check_mark:
-1. **Primeros Pasos con jQuery** :ballot_box_with_check:
-1. **jQuery en Práctica** :x:
-1. **jQuery en nuestro sitio web** :x:
-1. **Plugins de jQuery** :x:
-1. **Introducción a MySQL - Creando nuestra primer base de datos** :x:
-1. **Haciendo nuestro sitio web dinámico con PHP y MYSQL** :x:
+1. **Agregando un Mapa con LeafletJS (3/3 | 9min)** :white_check_mark:
+1. **Introducción a jQuery  (1/1 | 2min)** :white_check_mark:
+1. **Primeros Pasos con jQuery (0/14 | 1h 6min)** :ballot_box_with_check:
+1. **jQuery en Práctica (0/6 | 22min)** :x:
+1. **jQuery en nuestro sitio web (0/2 | 14min)** :x:
+1. **Plugins de jQuery (0/15 | 1h 6min)** :x:
+1. **Introducción a MySQL - Creando nuestra primer base de datos (0/15 | 52min)** :x:
+1. **Haciendo nuestro sitio web dinámico con PHP y MYSQL (0/9 | 38min)** :x:
 1. **Conectando nuestra página web a MYSQL (Creando calendario de eventos)** :x:
 1. **Creando la sección de invitados desde la Base de Datos** :x:
 1.  **Trabajando con el Calendario de la página Principal** :x:
