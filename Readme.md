@@ -9,6 +9,9 @@
 1. **Lista de Precios (4/4 | 20min)** :white_check_mark:
 1. **Creando los Testimoniales (3/3 | 17min)** :white_check_mark:
 1. **Sección de Newsletter y Cuenta regresiva (4/4 | 12min)** :white_check_mark:
+1. **Básicos de JavaScript (0/29 | 3h 30min)** :x:
+1. **JavaScript: DOM en Acción (0/15 | 1h 10min)** :x:
+1. **Sección de Newsletter y Cuenta regresiva (4/4 | 12min)** :white_check_mark:
 1. **Sección de Registro con HTML y CSS (7/7 | 39min)** :white_check_mark:
 1. **Cotización en línea con JavaScript (11/11 | 56min)** :white_check_mark:
 	-  Esperando que el HTML este listo :white_check_mark:
