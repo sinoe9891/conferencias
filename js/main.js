@@ -25,6 +25,7 @@
             var lista_productos = document.getElementById('lista-productos');
             var lista_box = document.getElementById('lista');
             var suma = document.getElementById('sumatotal');
+			
             //EXTRAS
             var camisas = document.getElementById('camisa_evento');
             var etiquetas = document.getElementById('etiquetas');
